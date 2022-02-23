@@ -26,4 +26,4 @@ yarn.lock
 #Firebase
 /.firebase
 
-./published
+storybook-static
