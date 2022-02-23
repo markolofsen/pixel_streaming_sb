@@ -1,17 +1,6 @@
-import { Meta } from '@storybook/addon-docs/blocks';
+import { Meta, Description, Props, Source, Canvas } from '@storybook/addon-docs/blocks';
+import readme from './readme.md';
 
 <Meta title="Introduction" />
 
-<style>{`
-
-
-`}</style>
-
-
-# Welcome to PixelStreaming
-
-With Pixel Streaming, you run a packaged Unreal Engine application on a desktop PC or a server in the cloud, along with a small stack of web services that are included with the Unreal Engine.
-
-<button onClick={() => {
-  window.open('https://www.npmjs.com/package/pixel-streaming')
-}}>npmjs.org</button>
+<Description markdown={readme} />
