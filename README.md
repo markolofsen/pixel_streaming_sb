@@ -1,6 +1,6 @@
 # PixelStreaming for ReactJS
 
-Library for launching the player for Pixel Streaming (Unreal Engine v.5)
+ReactJS Pixel Streaming library — helps integrate Unreal Engine v.5 in the browser. Allows you to send commands and get callbacks from the stream server with launched Unreal Engine.
 
 Connects to running [STUN and TURN Servers](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/PixelStreaming/Hosting/).
 
