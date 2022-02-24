@@ -12,9 +12,14 @@ Connects to running [STUN and TURN Servers](https://docs.unrealengine.com/4.27/e
 
 ---
 
-## Demo
+## Documentation
 
 https://markolofsen.github.io/pixel_streaming_sb/
+
+## Demo
+
+https://markolofsen.github.io/pixel_streaming_sb/?path=/story/player-variants--simple
+
 
 ## Installation
 
