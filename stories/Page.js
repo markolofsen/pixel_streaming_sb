@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import "./Page.css"
 
 // libs
-import PixelStreaming, {DebugData} from 'pixel-streaming';
+import PixelStreaming, {DebugData} from 'metaeditor';
 
 export const Page = () => {
 
